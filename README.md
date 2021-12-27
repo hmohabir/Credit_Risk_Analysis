@@ -63,9 +63,9 @@ The Recall score was were not too far apart.
 The Support are nowhere near the same.
 The high risk precision score is 4%
 
-### Easy AdaBoost Classifier
+### Easy Ensemble AdaBoost Classifier
 
-![Easy AdaBoost Classifier](https://github.com/hmohabir/Credit_Risk_Analysis/blob/main/Easy%20Ensemble%20Classifier.PNG
+![Easy AdaBoost Classifier](https://github.com/hmohabir/Credit_Risk_Analysis/blob/main/Easy%20Ensemble%20Classifier.PNG)
 
 This sampling's accuracy score was 91.8%
 The Recall score was were not too far apart.
